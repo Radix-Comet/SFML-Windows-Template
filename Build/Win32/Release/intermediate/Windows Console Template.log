@@ -1,0 +1,19 @@
+﻿  SFML Windows Template.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 4 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Windows Console Template.vcxproj -> C:\Users\angel\source\repos\SFML Templates\2.5.1\Windows Console Template\Build\Win32\Release\SFML Windows Template.exe
+  Copy all of the SFML DLLs into the out directory
+  C:\Users\angel\source\repos\SFML Templates\2.5.1\Windows Console Template\SFML\32 Bit\bin\openal32.dll -> C:\Users\angel\source\repos\SFML Templates\2.5.1\Windows Console Template\Build\Win32\Release\openal32.dll
+  1 File(s) copied
+  C:\Users\angel\source\repos\SFML Templates\2.5.1\Windows Console Template\SFML\32 Bit\bin\sfml-audio-2.dll -> C:\Users\angel\source\repos\SFML Templates\2.5.1\Windows Console Template\Build\Win32\Release\sfml-audio-2.dll
+  1 File(s) copied
+  C:\Users\angel\source\repos\SFML Templates\2.5.1\Windows Console Template\SFML\32 Bit\bin\sfml-graphics-2.dll -> C:\Users\angel\source\repos\SFML Templates\2.5.1\Windows Console Template\Build\Win32\Release\sfml-graphics-2.dll
+  1 File(s) copied
+  C:\Users\angel\source\repos\SFML Templates\2.5.1\Windows Console Template\SFML\32 Bit\bin\sfml-network-2.dll -> C:\Users\angel\source\repos\SFML Templates\2.5.1\Windows Console Template\Build\Win32\Release\sfml-network-2.dll
+  1 File(s) copied
+  C:\Users\angel\source\repos\SFML Templates\2.5.1\Windows Console Template\SFML\32 Bit\bin\sfml-system-2.dll -> C:\Users\angel\source\repos\SFML Templates\2.5.1\Windows Console Template\Build\Win32\Release\sfml-system-2.dll
+  1 File(s) copied
+  C:\Users\angel\source\repos\SFML Templates\2.5.1\Windows Console Template\SFML\32 Bit\bin\sfml-window-2.dll -> C:\Users\angel\source\repos\SFML Templates\2.5.1\Windows Console Template\Build\Win32\Release\sfml-window-2.dll
+  1 File(s) copied
