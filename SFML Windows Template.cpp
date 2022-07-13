@@ -4,7 +4,7 @@
 // SFML was NOT made by me, it was made by the lovely folks at https://www.sfml-dev.org
 // If you have any questions feel free to join the SFML server and ask!
 // OR if you have any suggestions, feel free to dm me, RadixComet any time!
-// OR if you wish to support me, 
+
 #include <iostream>
 #include <SFML/System.hpp>
 #include <SFML/Window.hpp>
